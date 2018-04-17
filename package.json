@@ -1,0 +1,24 @@
+{
+  "name": "lzad-13-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "dependencies": {
+    "colors": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+  "start": "node program.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marro2016/lzad-13-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marro2016/lzad-13-5/issues"
+  },
+  "homepage": "https://github.com/marro2016/lzad-13-5#readme"
+}
