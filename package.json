@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "program.js",
-  "dependencies": {},
+  "dependencies": {
+    "colors": "^1.2.1",
+    "stat-mode": "^0.2.2"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "node program.js",
